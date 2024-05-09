@@ -1,6 +1,6 @@
 # Meta Front-End Developer Professional Certificate
 
-This repository is for Educational Purposes Only to this courcera [certification](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+This repository is only for educational purposes to this coursera [certification](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
 ## Certificates
 
